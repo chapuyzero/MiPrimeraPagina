@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-color: lightblue;
+  background-color: rgb(69, 92, 100);
   color: darkblue;
 }
 
@@ -16,7 +16,7 @@ main {
 
 footer {
   min-height: 200px;
-  background-color: antiquewhite;
+  background-color: rgb(90, 130, 76);
   display: flex;
   flex-direction: column;
   justify-content: center;
